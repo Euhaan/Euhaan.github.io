@@ -1,0 +1,36 @@
+# main links
+main:
+#  - title: "Home"
+#    url: https://wavivic.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/wavivic
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "C/C#/C++"
+    url: /categories/c
+  - title: "Algorithm"
+    url: /categories/algorithm
+  - title: "Math"
+    url: /categories/math
+  - title: "CS"
+    url: /categories/cs
+    
+  - title: "Study"
+    children:
+     - title: "Unity"
+       url: /categories/unity
+     - title: "UE"
+       url: /categories/unreal
