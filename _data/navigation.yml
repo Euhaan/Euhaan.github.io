@@ -1,13 +1,13 @@
 # main links
 main:
 #  - title: "Home"
-#    url: https://wavivic.github.io/
+#    url: https://euhaan.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/wavivic
+    url: https://github.com/euhaan
 
   # - title: "Projects"
   #   url: /projects/
