@@ -57,7 +57,7 @@ comments: false
 <br>
 {{ "
 
-**<mark>Email</mark>** &ensp; test@gmail.com
+**<mark>Email</mark>** &ensp; Euhaan99@gmail.com
 
 **<mark>Github</mark>** &ensp; https://github.com/Euhaan
 
@@ -74,7 +74,7 @@ comments: false
         {{ "# INTRODUCE" | markdownify }}
 </div>
 <div class="column2">
-{{ "## 스스로 고민하고 실현해내는 것이 즐거운 게임 클라이언트 신입 개발자입니다.
+{{ "## ❛탐구❜로 문제를 분석하고, ❛끈기❜로 ❛단순화❜의 길을 찾아가는 게임 클라이언트 신입 개발자입니다.
 <br>
 <mark><b>❛모❜로 가지 않고 ❛바❜로 서울 가는 개발자</b></mark>
 "| markdownify }}
@@ -117,7 +117,7 @@ comments: false
 </div>
 <div class="column2">
 {{ "
-
+****
 - C# <mark>(4/5)</mark>
 - C++ <mark>(3/5)</mark>
 - Unity  <mark>(4/5)</mark>
