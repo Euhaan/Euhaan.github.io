@@ -144,14 +144,17 @@ comments: false
 
 - VR, AR 게임개발 및 에셋 디자이너 양성과정 (보조강사)
 
-<br>    
+
+  " | markdownify }}
+</div> 
+</div>
 
 - - -
 
 <div class="two-columns">
 <div class="column1">
 {{ "# Projects" | markdownify }}
-</div>****
+</div>
 <div class="column2">
 {{ "
 
@@ -237,6 +240,11 @@ comments: false
 📽️ <a href="https://youtu.be/_VgQjvCEwF0" target=_blank>WhispersIn The Dark 인게임 플레이 영상</a>
 {{ "
 <br>
+
+" | markdownify }}
+</div> 
+</div>
+
 - - -
 
 <div class="two-columns">
@@ -274,5 +282,5 @@ comments: false
 <br><br>
 
 " | markdownify }}
-</div>
+</div> 
 </div>
