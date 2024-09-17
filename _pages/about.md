@@ -132,76 +132,89 @@ comments: false
 
 - - -
 
-
 <div class="two-columns">
 <div class="column1">
-{{ "# Projects" | markdownify }}
+{{ "# Experience" | markdownify }}
 </div>
 <div class="column2">
 {{ "
 
-## <font color=6AA8F8>돌돌네이쳐 (Doll Doll Nature)</font>
+## <font color=6AA8F8>The국제직업전문학교</font>
+2023.08 ~ 2024.03 (7개월)
 
-<i>Unity를 이용하여, ‘Stardew Valley’ 게임을 오마주한 농사 시뮬레이션 2D 게임 개발</i>
+- VR, AR 게임개발 및 에셋 디자이너 양성과정 (보조강사)
+
+<br>    
+
+- - -
+
+<div class="two-columns">
+<div class="column1">
+{{ "# Projects" | markdownify }}
+</div>****
+<div class="column2">
+{{ "
+
+## <font color=6AA8F8>Coma (VR)</font>
+
+<i>Unity를 이용한, VR 기기를 이용한 3D 방탈출 게임 개발 </i>
 <br><br>
 
 #### Description
 
 - 프로젝트 인원 : 1인 개발
 - 사용 엔진 : Unity
-- 기간 : 2023. 11. 18 ~ 2024. 01. 08 <mark>총 58 일</mark>
+- 기간 : 2023. 06. 01 ~ 2023. 07. 02 <mark>총 32 일</mark>
   <br><br>
 
 #### What did I do
 
-- 역할 : 전반적인 게임 구현
+- 역할 : 프로젝트 기획 및 개발
 - 기여
-    - 전체적인 게임 기획 및 개발
-    - Tilemap을 이용한 맵 구성
-    - 인벤토리 및 상점 구현
-    - 농작물 정보를 이용한 Tilemap 변경
-    - 농기구와 자연물끼리의 상호작용 구현
+    - 사운드 채널링 시스템 구현
+    - 공간 음향 시스템 구현
+    - VR 컨트롤러를 활용한 드로잉 시스템 구현
+    - 각종 힌트와 키 오브젝트에 대한 상호작용 구현
       <br><br>
 
 #### Insights
 
-1. 게임 개발의 난이도는 게임의 역동성보다도 플레이어와 사물, 맵의 상호작용과 거기서 파생되는 경우의 수에 의해 결정된다는 것을 깨달았습니다.
-2. 게임 기능에 관련된 Manager 와 갈래로 뻗어 나오는 Script, Layer, Tag 의 기능과 역할의 부여 및 카테고리 설정을 기획 단계에서부터 짜임새 있는 구성과 기획을 실행하는 것이 작업의 혼선을
-   줄이고 효율을 높인다는 것을 느꼈습니다.
-3. Github을 이용한 프로젝트 관리법을 배우고, 편의성을 느꼈습니다.
+1. 튜토리얼 형태의 게임도 플레이어가 의도한대로 흐름을 따라가게 할지에 대해 많은 고민이 들어간다는 것을 느꼈습니다.
+2. 초기에 설정한 기능에 대한 세분화의 구성에 따른 작업 속도의 편차를 느꼈습니다.
+3. Cinemachiner과 Virtua Camera에 대한 기능 사용법을 익혔습니다.
+4. Object Pooling을 활용한 효율적인 자원관리법을 익혔습니다.
    <br><br>
 
 #### Skill
 
-<mark>C#</mark> <mark>Unity</mark> <mark>Github</mark> <mark>Cinemachine</mark> <mark>Tilemap</mark> <mark>Rule
-Tile</mark>
+<mark>C#</mark> <mark>Unity</mark> <mark>Github</mark> <mark>VR</mark>
 <br><br>
 
 #### Game Play Video
 
 " | markdownify }}
 
-📽️ <a href="https://youtu.be/qDrX-Z9s8iE?si=9LiZh4lM9rZpLVuI" target=_blank>돌돌네이쳐 (Doll Doll Nature) 인게임 플레이 영상</a>
+📽️ <a href="https://youtu.be/gNcrb4fBX54" target=_blank> Coma(VR) 인게임 플레이 영상</a>
 {{ "
 - - - 
 
-## <font color=6AA8F8>Do Not Late!</font>
+## <font color=6AA8F8>WhispersIn The Dark</font>
 
-<i>Unity 엔진을 이용한 3D 캐쥬얼 레이싱 게임 개발</i>
+<i>Unreal Engine5를 활용한 좀비 FPS 게임 개발</i>
 <br><br>
 
 #### Description
 
 - 프로젝트 인원 : 1인 개발
-- 사용 엔진 : Unity
-- 기간 : 2024. 01. 09 ~ 2024. 01. 24 <mark>총 16일</mark>
+- 사용 엔진 : Unreal Engine 5
+- 기간 : 2024. 06. 14 ~ 2024. 06. 23 <mark>총 10일</mark>
   <br><br>
 
 #### What did I do
 
-- 역할 : 전반적인 게임 구현
+- 역할 : 프로젝트 기획 및 개발
 - 기여
-    - 전체적인 게임 기획 및 개발
+    - 
     - 전반적 기능 구현
     - Light 및 Shader 사용
       <br><br>
@@ -215,99 +228,15 @@ Tile</mark>
 
 #### Skill
 
-<mark>C#</mark> <mark>Unity</mark> <mark>Github</mark> <mark>Cinemachine</mark> <mark>Shader</mark>
+<mark>C++</mark> <mark>UnrealEngine5</mark> <mark>Github</mark> <mark></mark> <mark>Shader</mark>
 <br><br>
 
 #### Game Play Video
 
 " | markdownify }}
-📽️ <a href="https://youtu.be/qDrX-Z9s8iE?si=NyU65NMI1zR_f1Ku&t=169" target=_blank>Do Not Late! 인게임 플레이 영상</a>
+📽️ <a href="https://youtu.be/_VgQjvCEwF0" target=_blank>WhispersIn The Dark 인게임 플레이 영상</a>
 {{ "
-- - - 
-
-## <font color=6AA8F8>❛Otter Story❜ Team Project</font>
-
-<i>Unity 엔진을 이용한 횡스크롤 액션 2D 게임 개발 / 첫 팀 프로젝트</i>
-<br><br>
-
-#### Description
-
-- 팀 구성 : 4인
-- 사용 엔진 : Unity
-- 기간 : 2023.09.11 ~ 2023.09.26 <mark>총 16일</mark>
-  <br><br>
-
-#### What did I do
-
-- 역할 : 몬스터 및 아이템 관련해서 전담하여 구현했습니다.
-- 기여
-    - 몬스터 기본 움직임 및 애니메이션
-    - 몬스터 AI 공격 패턴
-    - 아이템 Prefab 생성 및 드랍
-    - 아이템 획득 후 기능 구현
-      <br><br>
-
-#### Insights
-
-1. 애니메이션 프레임 구간에서 이벤트 함수 사용 가능하다는 것을 배웠습니다.
-2. 문제 해결을 위한 팀원 간의 활발한 의사소통으로 팀 단위의 프로젝트 성공을 경험하였습니다.
-3. 게임 개발에 관련된 팀 프로젝트에서의 일정 관리 중요성을 느꼈습니다.
-   <br><br>
-
-#### Skill
-
-<mark>C#</mark> <mark>Unity</mark>
-<br><br>
-
-#### Game Play Video
-
-" | markdownify }}
-📽️ <a href="#" target=_blank>인게임 플레이 영상</a>
-{{ "
-
-- - - 
-
-## <font color=6AA8F8>❛Animal Hunting Game❜ Team Project</font>
-
-<i>Unity 엔진을 이용한 쿼터뷰 형식의 FPS 게임 개발</i>
-<br><br>
-
-#### Description
-
-- 팀 구성 : 3인
-- 사용 엔진 : Unity
-- 기간 : 2023.10.10 ~ 2023.11.10 <mark>총 30일</mark>
-- 교육 과정 중 예제 프로젝트 복습 차원에서의 게임 재구현
-  <br><br>
-
-#### What did I do
-
-- 역할 : Player의 기본 움직임, Shooting 기능, Enemy와의 상호 작용을 담당하였습니다.
-- 기여
-    - Player의 기본 움직임 및 애니메이션 구현
-    - Camera와 연동된 조작
-    - Shoot 기능 구현
-    - Scene과 Scene에서의 정보 전달 구현
-      <br><br>
-
-#### Insights
-
-1. 게임 기획 단계에서 시스템 기획을 탄탄하게 해야 일을 반복하지 않는다는 걸 배웠습니다.
-2. Manager, Layer, Tag 사용 시 팀원들과 원활하게 공유되어야 한다는 걸 배웠습니다.
-3. 팀원 간의 소통의 중요성에 대해 깨달았습니다.
-   <br><br>
-
-#### Skill
-
-<mark>C#</mark> <mark>Unity</mark>
-<br><br>
-
-#### Game Play Video
-
-" | markdownify }}
-📽️ <a href="#" target=_blank>인게임 플레이 영상</a>
-</div> 
-</div> 
+<br>
 - - -
 
 <div class="two-columns">
@@ -319,15 +248,14 @@ Tile</mark>
 
 ## <font color=6AA8F8>The국제직업전문학교</font>
 
-<i>C#, Unity를 이용한 게임 개발 및 에셋 디자이너 양성 과정 6기</i>
+<i> VR, AR 게임개발 및 에셋 디자이너 양성과정 양성 과정 6기</i>
 <br><br>
 
-- 2023.07 ~ 2024.01 (6개월)
+- 2022.12 ~ 2023.07 (6개월)
 - 총 000 시간 과정
-- 팀 프로젝트 2개, 개인 프로젝트 2개 완성 커리큘럼
-- 성과 발표회 최우수 수상
+- 개인 프로젝트 1개 완성 커리큘럼
 
-<mark>C#</mark> <mark>Unity</mark> <mark>3ds Max</mark> <mark>Unreal</mark>
+<mark>C#</mark> <mark>Unity</mark> <mark>3ds Max</mark> 
 <br><br>
 
 - - -
@@ -340,7 +268,7 @@ Tile</mark>
 - 2024.03 ~ 2024.10 (7개월)
 - 총 000 시간 과정
 - C++, Blueprint
-- 개임 프로젝트 1개, 팀 프로젝트 1개 완성 커리큘럼
+- 개인 프로젝트 1개, 팀 프로젝트 1개 완성 커리큘럼
 
 <mark>C++</mark> <mark>Unreal Engine</mark> <mark>Blueprint</mark> <mark>Github</mark>
 <br><br>
