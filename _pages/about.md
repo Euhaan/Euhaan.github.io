@@ -134,25 +134,6 @@ comments: false
 
 <div class="two-columns">
 <div class="column1">
-{{ "# Experience" | markdownify }}
-</div>
-<div class="column2">
-{{ "
-
-## <font color=6AA8F8>The국제직업전문학교</font>
-2023.08 ~ 2024.03 (7개월)
-
-- VR, AR 게임개발 및 에셋 디자이너 양성과정 (보조강사)
-
-
-  " | markdownify }}
-</div> 
-</div>
-
-- - -
-
-<div class="two-columns">
-<div class="column1">
 {{ "# Projects" | markdownify }}
 </div>
 <div class="column2">
@@ -217,22 +198,23 @@ comments: false
 
 - 역할 : 프로젝트 기획 및 개발
 - 기여
-    - 
-    - 전반적 기능 구현
-    - Light 및 Shader 사용
+    - 전반적인 사격 및 반동 시스템 구현
+    - 데이터 테이블을 이용한 아이템 관리 시스템 구현
+    - 3D 메뉴 연출 구현
+    - 피직스 머티리얼을 적용한 부위 별 데미지 구현
+    - 라운드 시스템 구현
       <br><br>
 
 #### Insights
 
-1. Cinemachine을 이용한 카메라 제어법을 배웠습니다.
-2. 3D 환경에서의 Light 및 Shader 의 이용법을 배웠습니다.
-3. NaviMesh Agent 을 심화 적용 하였습니다.
+1. Animation 및 Camera Shake 조합의 미세한 차이가 가지는 몰입감의 영향을 느꼈습니다.
+2. Data Table를 활용한 데이터 관리법에 대해 익혔습니다.
+3. Physics Material를 통한 물리적 상호 작용 방법에 대해 익혔습니다.
    <br><br>
 
 #### Skill
 
-<mark>C++</mark> <mark>UnrealEngine5</mark> <mark>Github</mark> <mark></mark> <mark>Shader</mark>
-<br><br>
+<mark>Blueprint</mark> <mark>UnrealEngine5</mark> <mark>Github</mark> <mark>Github</mark>
 
 #### Game Play Video
 
@@ -240,6 +222,25 @@ comments: false
 📽️ <a href="https://youtu.be/_VgQjvCEwF0" target=_blank>WhispersIn The Dark 인게임 플레이 영상</a>
 {{ "
 <br>
+
+" | markdownify }}
+</div> 
+</div>
+
+- - -
+
+<div class="two-columns">
+<div class="column1">
+{{ "# Experience" | markdownify }}
+</div>
+<div class="column2">
+{{ "
+
+## <font color=6AA8F8>The국제직업전문학교</font>
+2023.08 ~ 2024.03 (7개월)
+
+- VR, AR 게임개발 및 에셋 디자이너 양성과정 (보조강사)
+
 
 " | markdownify }}
 </div> 
@@ -260,7 +261,7 @@ comments: false
 <br><br>
 
 - 2022.12 ~ 2023.07 (6개월)
-- 총 000 시간 과정
+- 총 880 시간 과정
 - 개인 프로젝트 1개 완성 커리큘럼
 
 <mark>C#</mark> <mark>Unity</mark> <mark>3ds Max</mark> 
@@ -274,7 +275,7 @@ comments: false
 <br><br>
 
 - 2024.03 ~ 2024.10 (7개월)
-- 총 000 시간 과정
+- 총 800시간 과정
 - C++, Blueprint
 - 개인 프로젝트 1개, 팀 프로젝트 1개 완성 커리큘럼
 
