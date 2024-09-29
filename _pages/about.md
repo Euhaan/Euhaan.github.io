@@ -72,42 +72,6 @@ comments: false
 <div class="two-columns">
 <div class="column1">
         {{ "# INTRODUCE" | markdownify }}
-</div>
-<div class="column2">
-{{ "## ❛탐구❜로 문제를 분석하고, ❛끈기❜로 ❛단순화❜의 길을 찾아가는 게임 클라이언트 신입 개발자입니다.
-<br><br>
-<mark><b>❛모❜로 가지 않고 ❛바❜로 서울 가는 개발자</b></mark>
-"| markdownify }}
-
-&ensp; 모 개발 회사 사무실에는 ‘어~?’ 를 금지하는
-문구<div class="hover-image-container"><a href="#"><sup>[1]</sup></a><img src="\assets\images\posts_img\about/first.jpg" width="400"></div>
-가 붙어 있다고 합니다. 개발자들의 밈(meme) 중에 만국 공통으로 유명한 밈은 ‘어? 이게 왜 되지?’, ‘어? 이게 왜 안 되지?’<div class="hover-image-container">
-<a href="#"><sup>[2]</sup></a><img src="\assets\images\posts_img\about/second.png" width="400"></div>가 있습니다. 저의 ‘어?’ 는
-‘어? 이게 왜 (의도한 대로) 안 되지?’ 밖에 없습니다!
-<br><p>
-&ensp; 직접 로직을 짜고 실행하는 데에서 흥미를 느끼기에 코드 한 줄, 한 줄의 의미와 왜? 를 알고 있습니다. 여태 해 온 코드의 99%는 제가 구성하고, 구현해낸 코드입니다. 나머지 1%는 패키지나
-플러그인을 이용한 코드이며, 모두 코드 리뷰 후에 블로그에 기록용으로 남겨 현재 N개의 포스트가 게시되어 있습니다.</p>
-<br>
-{{ "
-<mark><b>혈을 뚫는 개발자</b></mark>
-
-&ensp; 이슈의 원인을 파악하여 문제를 해결하는 능력이 뛰어납니다. 두 번의 교육 기간 동안 코드 이슈로 강의 시간이 딜레이 되는 경우, 강사님들에게 문제 해결 방법을 제시하여 “쉬는 시간에 ㅇㅇㅇ 학생이 말해
-준 대로 수정하니 되었습니다. 자, 여기서~” 와 같은 경험이 여러 차례 있었습니다. 뿐만 아니라, 같은 교육 동기생들이나 팀원이 어려워하는 문제에 해결책을 제시하기도 하였습니다.
-<p>&ensp;  해결 경험을 잊지 않고 복기, 공유하기 위하여 개발일지 형식으로 남기고 있습니다. 개발 일지를 작성할 때 가장 중요하게 생각하는 것은 원인에 접근하는 근거입니다.</p>
-"| markdownify }}
-📝 <div class="hover-image-container"><a href="/unreal/test/" target=_blank> 문제 해결 경험 개발일지 - [UE] Weapon Bone이 있는 스켈레톤의 애니메이션</a></div>
-<br>
-<br>
-{{ "
-
-<mark><b>그밖에</b></mark>
-
-- 공통적으로 사용하는 함수라면 재사용할 수 있는 상황을 고려하여 코드를 짭니다. 상속과 인터페이스를 즐겨 사용합니다.
-- 최대한 Tick, Update 구문을 피하기 위하여 Set 함수, 프로퍼티를 즐겨 사용합니다.
-
-"| markdownify }}
-</div>
-</div>
 
 - - -
 
@@ -120,11 +84,10 @@ comments: false
 ****
 - C# <mark>(4/5)</mark>
 - C++ <mark>(3/5)</mark>
-- Unity  <mark>(4/5)</mark>
-- Unreal Engine <mark>(4/5)</mark>
+- Unity  <mark>(3/5)</mark>
+- Unreal Engine <mark>(3/5)</mark>
 - Github <mark>(4/5)</mark>
-- HTML <mark>(2/5)</mark>
-- CSS <mark>(2/5)</mark>
+****
 
 " | markdownify }}
 </div> 
@@ -284,4 +247,4 @@ comments: false
 
 " | markdownify }}
 </div> 
-</div>
+<div>****
